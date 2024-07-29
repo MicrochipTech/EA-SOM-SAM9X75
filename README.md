@@ -7,3 +7,11 @@ For more information about the SAM9X75 CPU, or the associated SIPs referenced ab
 * https://www.microchip.com/en-us/product/SAM9X75
 * https://www.microchip.com/en-us/product/SAM9X75D1G
 * https://www.microchip.com/en-us/product/SAM9X75D2G
+
+<p align="center"><img src="SAM9X75D2GN4-I-M4B.jpg" /></p>
+
+# SAM9X75 SOM 1Gb/2Gb Early Access - Collaterals
+* Hardware
+  * SOM Hardware Design Files are available upon request through a licence agreement. Please contact your local [Microchip Sales or Sales representative](https://www.microchip.com/en-us/about/global-sales-and-distribution) for more information
+* Documentation
+  * [SAM9X75 SOM Series Preliminary Data Sheet](Documentation/)
