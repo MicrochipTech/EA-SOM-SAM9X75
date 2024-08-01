@@ -16,7 +16,7 @@ For more information about the SAM9X75 CPU, or the associated SIPs referenced ab
 * Documentation
   * [SAM9X75 SOM Series Preliminary Data Sheet](Documentation/)
   * [System-On-Module (SOM) Assembly and Storage Guidelines](https://ww1.microchip.com/downloads/aemDocuments/documents/MPU32/ApplicationNotes/ApplicationNotes/System-On-Module-SOM-Assembly-and-Storage-Guidelines-DS00005249.pdf)
-  * [System-On-Module (SOM) Pick and Place Guidelines]
+  * [System-On-Module (SOM) Pick and Place Guidelines](https://ww1.microchip.com/downloads/aemDocuments/documents/MPU32/ApplicationNotes/ApplicationNotes/System-On-Module-%28SOM%29-Pick-and-Place-Guidelines-ds00004878.pdf)
 * Tools
   * [SAM-BA Programming Tool](Tools/SAM-BA)
   
