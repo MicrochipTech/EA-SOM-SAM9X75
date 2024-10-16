@@ -12,7 +12,7 @@ For more information about the SAM9X75 CPU, or the associated SIPs referenced ab
 
 ## Collaterals
 * Hardware
-  * SOM Hardware Design Files are available upon request through a licence agreement. Please contact your local [Microchip Sales or Sales representative](https://www.microchip.com/en-us/about/global-sales-and-distribution) for more information
+  * SOM Hardware Design Files can be requested by contacting your local [Microchip Sales or Sales representative](https://www.microchip.com/en-us/about/global-sales-and-distribution)
 * Documentation
   * [SAM9X75 SOM Series Preliminary Data Sheet](Documentation/)
   * [System-On-Module (SOM) Assembly and Storage Guidelines](https://ww1.microchip.com/downloads/aemDocuments/documents/MPU32/ApplicationNotes/ApplicationNotes/System-On-Module-SOM-Assembly-and-Storage-Guidelines-DS00005249.pdf)
