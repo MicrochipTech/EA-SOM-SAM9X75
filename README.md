@@ -15,5 +15,6 @@ For more information about the SAM9X75 CPU, or the associated SIPs referenced ab
 <p align="center"><img src="SAM9X75D2GN4-I-M4B.jpg" /></p>
 
 ## Collaterals
-* Please visit the official SAM9X75D2GN4 SOM product page: https://www.microchip.com/en-us/product/SAM9X75D2GN4
+* Please visit the official SAM9X75D2GN4 SOM product page:
+  * https://www.microchip.com/en-us/product/SAM9X75D2GN4
   
