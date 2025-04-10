@@ -14,5 +14,6 @@ For more information about the SAM9X75 MPU, or the associated SIPs and SOM refer
 
 ## Collaterals
 * Please visit the official SAM9X75D2GN4 SOM product page:
+  * https://www.microchip.com/en-us/product/SAM9X75D1GN2
   * https://www.microchip.com/en-us/product/SAM9X75D2GN4
   
