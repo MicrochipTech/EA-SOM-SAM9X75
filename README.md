@@ -6,12 +6,8 @@ The SAM9X75 SOM series is based on a SAM9X75 System-in-Package (SIP) with up to 
 This new SOM series is targeted for production very soon, but in the meantime this Github repository serves as the main resource for documentation and software support for the SAM9X75 SOM series.
 
 For more information about the SAM9X75 MPU, or the associated SIPs and SOM referenced above, please visit the respective product page on Microchip.com:
-* SoC
-  * https://www.microchip.com/en-us/product/SAM9X75 (Released to Production)
-* SiP
-  * https://www.microchip.com/en-us/product/SAM9X75D1G (Released to Production)
-  * https://www.microchip.com/en-us/product/SAM9X75D2G (Released to Production)
 * SOM
+  * https://www.microchip.com/en-us/product/SAM9X75D1GN2 (Released to Production)
   * https://www.microchip.com/en-us/product/SAM9X75D2GN4 (Released to Production)
 
 <p align="center"><img src="SAM9X75D2GN4-I-M4B.jpg" /></p>
