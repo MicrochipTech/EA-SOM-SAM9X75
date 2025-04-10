@@ -6,10 +6,10 @@ The SAM9X75 SOM series is based on a SAM9X75 System-in-Package (SIP) with up to 
 This new SOM series is targeted for production very soon, but in the meantime this Github repository serves as the main resource for documentation and software support for the SAM9X75 SOM series.
 <p align="center"><img src="SAM9X75D2GN4-I-M4B.jpg" /></p>
 
-## SAM9X75 SOM Series:
-* SAM9X75D5MN0: (Early Adopter)
-* SAM9X75D1GN2 (Released to Production)
-* SAM9X75D2GN4 (Released to Production)
+## SAM9X75 SOM Series
+* SAM9X75D5MN0: Early Adopter (EA)
+* SAM9X75D1GN2: Released to Production (RTP)
+* SAM9X75D2GN4: Released to Production (RTP)
 
 ## SAM9X75 SOM Collaterals
 * Please visit the official SAM9X75 SOM product pages:
