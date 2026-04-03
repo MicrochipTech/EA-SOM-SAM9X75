@@ -2,7 +2,7 @@
 ## Early Access Repository
 The Early Access phase has now concluded.
 
-Please visit the official SAM9X75 SOM product pages:
+For further information regarding the SAM9X75 SOM, please visit the corresponding product pages on Microchip.com:
 * https://www.microchip.com/en-us/product/SAM9X75D5MN0
 * https://www.microchip.com/en-us/product/SAM9X75D1GN2
 * https://www.microchip.com/en-us/product/SAM9X75D2GN4
